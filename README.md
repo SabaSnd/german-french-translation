@@ -9,11 +9,6 @@ This project demonstrates fine-tuning a pre-trained Language Model for German-Fr
 - Generated synthetic data for testing.
 - Documented results and insights.
 
-## 📂 Project Structure
-- `notebooks/` — Google Colab notebooks for data processing and fine-tuning
-- `data/` — Dataset used for training and testing
-- `results/` — Evaluation results and model outputs
-- `report/` — Project reflection and documentation
 
 ## 🛠️ Technologies Used
 - Python, Hugging Face Transformers
